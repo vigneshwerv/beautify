@@ -3,6 +3,8 @@ beautify
 
 A simple Python script that makes use of the open source music identification system Echoprint (http://echoprint.me/) and the Spotify Web API to set the right details for each track in your music library
 
+For now, only songs placed in the same directory as beautify.py are 'beautify'd.
+
 ## Requirements
 
 * [eyed3](http://eyed3.nicfit.net/ "eyed3")
