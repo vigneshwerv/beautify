@@ -1,10 +1,10 @@
+from PIL import Image
 import requests
 import ast
 import subprocess
 import glob
 import eyed3
 import StringIO
-from PIL import Image
 import os
 
 # Spotify Web API Endpoints
